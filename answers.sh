@@ -21,7 +21,7 @@ mkdir Programs/C++
 # Task 6
 mv Programs/Age.cpp Programs/C++/Age.cpp
 
-  Task 7
+#  Task 7
 cp -r  Programs/Java Homework/CS180/Project_1
 
 # Task 8
